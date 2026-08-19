@@ -1,4 +1,5 @@
 # readmegen 🏷️
+![CI](https://github.com/realMNohgee/readmegen/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **Generate a README.md skeleton from project analysis.** Zero dependencies, pure Python stdlib.
 
